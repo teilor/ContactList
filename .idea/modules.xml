@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContactList.iml" filepath="$PROJECT_DIR$/ContactList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topeka-base/topeka-base.iml" filepath="$PROJECT_DIR$/topeka-base/topeka-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topeka-instantapp/topeka-instantapp.iml" filepath="$PROJECT_DIR$/topeka-instantapp/topeka-instantapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topekaapk/topekaapk.iml" filepath="$PROJECT_DIR$/topekaapk/topekaapk.iml" />
+    </modules>
+  </component>
+</project>
